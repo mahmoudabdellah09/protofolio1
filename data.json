@@ -1,0 +1,316 @@
+{
+  "profile": {
+    "name": "Mahmoud Abdellah",
+    "handle": "mahmoudabdellah09",
+    "title": "Data Science Junior & High School Student",
+    "tagline": "Building tools that make sense, one line of code at a time.",
+    "location": "Egypt",
+    "email": "moodyabdellah1@gmail.com",
+    "github": "https://github.com/mahmoudabdellah09",
+    "linkedin": "https://www.linkedin.com/in/mahmoud-abdellah-3b0053242/"
+  },
+  "projects": [
+    {
+      "name": "forge-gym-progress",
+      "proj_id": "001",
+      "overview": "A gym progress tracking page built with HTML. Log your workouts, track your lifts, and watch your progress over time.",
+      "purpose": "Built to give anyone a simple, no-frills tool for recording workouts and seeing how they're improving — no account, no setup, just track and grow.",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "repoUrl": "https://github.com/mahmoudabdellah09/forge-gym-progress",
+      "liveUrl": "",
+      "screenshot": ""
+    },
+    {
+      "name": "WeRateDogs Data Analysis",
+      "proj_id": "002",
+      "overview": "Collected, cleaned, and analyzed real-world datasets using Python. Built reports and visualizations from the WeRateDogs Twitter data.",
+      "purpose": "A hands-on deep dive into data wrangling with Pandas and NumPy — cleaning messy data, finding stories in numbers, and presenting findings clearly.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Data Visualization"
+      ],
+      "repoUrl": "#",
+      "liveUrl": "#",
+      "screenshot": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Digital Egypt Cubs Initiative — Level One Nanodegree Program",
+      "organization": "Udacity · Ministry of Communications and Information Technology (MCIT), Egypt",
+      "date": "Oct 2023",
+      "verificationUrl": "https://confirm.udacity.com/A23DPCWZ",
+      "advisor": "Dr. Hoda Baraka — Advisor to the Minister of ICT for Technology Talents Development",
+      "screenshot": ""
+    },
+    {
+      "name": "Digital Egypt Cubs Initiative — Level Two Nanodegree Program",
+      "organization": "Udacity · Ministry of Communications and Information Technology (MCIT), Egypt",
+      "date": "Oct 2024",
+      "verificationUrl": "https://confirm.udacity.com/W5RPJP4Q",
+      "advisor": "Dr. Hoda Baraka — Advisor to the Minister of ICT for Technology Talents Development",
+      "screenshot": ""
+    },
+    {
+      "name": "Digital Egypt Cubs Initiative — Level Three: Data Science and AI Nanodegree Program",
+      "organization": "Udacity · Ministry of Communications and Information Technology (MCIT), Egypt",
+      "date": "Oct 2025",
+      "verificationUrl": "https://confirm.udacity.com/D45T275P",
+      "advisor": "Dr. Hoda Baraka — Advisor to the Minister of ICT for Technology Talents Development",
+      "screenshot": ""
+    },
+    {
+      "name": "Certificate of Recognition — First Rank, AI & Data Science",
+      "organization": "MCIT · Digital Egypt Cubs Initiative (DECI) · Udacity",
+      "date": "Oct 2025",
+      "verificationUrl": "#",
+      "advisor": "Eng. Walid Al Engbawy — Executive Director, DECI · Dr. Hoda Baraka — Advisor to Minister of ICT",
+      "detail": "Batch 3, Level 3 — #1 First Rank per 'Artificial Intelligence and Data Science' — Sohag Gov.",
+      "screenshot": ""
+    }
+  ],
+  "achievements": [
+    "First place — Governorate-level AI section",
+    "Winner — Governorate-Level Photoshop Competition",
+    "Participant in technology and IT competitions",
+    "Member — Digital Egypt Cubs Initiative (Data Analysis Track)"
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Good"
+    },
+    {
+      "name": "German",
+      "level": "Basic"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Projects Shipped",
+      "value": 2,
+      "suffix": "+",
+      "color": "#00ff41",
+      "note": "Real things I've built and shipped"
+    },
+    {
+      "label": "Certificates Earned",
+      "value": 4,
+      "suffix": "+",
+      "color": "#00ff41",
+      "note": "Udacity + MCIT recognition"
+    },
+    {
+      "label": "Skills Developed",
+      "value": 8,
+      "suffix": "+",
+      "color": "#00ff41",
+      "note": "HTML, CSS, Python, Data Analysis, and more"
+    },
+    {
+      "label": "Competition Rank",
+      "value": 1,
+      "suffix": "+",
+      "suffix_note": "First Rank · Sohag Gov.",
+      "color": "#ffb454",
+      "note": "Governate-level AI & Data Science"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Science Junior",
+      "org": "Digital Egypt Cubs Initiative (DECI)",
+      "date": "2023 – Present",
+      "location": "Egypt",
+      "description": "Training in data analysis, AI fundamentals, and digital technologies through MCIT's flagship youth initiative.",
+      "bullets": [
+        "First-rank achievement in AI and Data Science track — Sohag Gov.",
+        "Hands-on projects in data analysis, AI fundamentals, and digital tools.",
+        "Trained alongside a cohort of high-potential youth from across Egypt."
+      ],
+      "tags": [
+        "Data Analysis",
+        "AI",
+        "Python",
+        "MCIT"
+      ]
+    },
+    {
+      "role": "High School Student",
+      "org": "High Institute for Engineering & Technology — Obour",
+      "date": "Expected Graduation 2027",
+      "location": "Obour, Egypt",
+      "description": "Pursuing my degree while building real projects and competing at governorate level.",
+      "bullets": [
+        "Currently enrolled in Computer Science track.",
+        "Balancing studies with competition participation and personal projects.",
+        "Building a foundation in CS fundamentals and applied technology."
+      ],
+      "tags": [
+        "Computer Science",
+        "Studies"
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "step": "01",
+      "title": "Programming Foundations",
+      "mentor": "Self-Taught & Competition Experience",
+      "description": "Started from zero with strong CS fundamentals through academic projects and governorate-level competitions. Built problem-solving instincts.",
+      "tags": [
+        "Python",
+        "Problem Solving",
+        "Algorithms",
+        "Data Analysis"
+      ]
+    },
+    {
+      "step": "02",
+      "title": "Frontend Fundamentals",
+      "mentor": "Self-Taught through Building",
+      "description": "Learned HTML, CSS, and JavaScript by building real projects from the ground up — the craft of the web.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design"
+      ]
+    },
+    {
+      "step": "03",
+      "title": "Data Science Track",
+      "mentor": "Digital Egypt Cubs Initiative",
+      "description": "Structured training in data analysis, AI fundamentals, and digital technologies through MCIT's flagship initiative. First-rank achievement.",
+      "tags": [
+        "Data Analysis",
+        "AI",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "step": "04",
+      "title": "Pro Frontend",
+      "mentor": "Building Real Projects",
+      "description": "Leveling up to modern frontend — building cleaner, scalable interfaces with intention and craft.",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "UX"
+      ]
+    },
+    {
+      "step": "05",
+      "title": "ITI Frontend Trainee",
+      "mentor": "Information Technology Institute",
+      "description": "Enrolled in an intensive frontend program building production-grade web applications with HTML5, CSS3, JavaScript, TypeScript, and React.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Redux"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML & CSS",
+      "level": "Expert",
+      "level_num": 95,
+      "items": [
+        "HTML5 Semantics",
+        "CSS3",
+        "Flexbox",
+        "Grid",
+        "Animations",
+        "Accessibility"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "level_num": 80,
+      "items": [
+        "Data Analysis",
+        "Pandas",
+        "NumPy",
+        "Scripting"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Advanced",
+      "level_num": 80,
+      "items": [
+        "Data Wrangling",
+        "Visualization",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "level_num": 65,
+      "items": [
+        "DOM",
+        "ES6+",
+        "Async"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Proficient",
+      "level_num": 70,
+      "items": [
+        "Version Control",
+        "Repositories",
+        "Branching"
+      ]
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "Competition Winner",
+      "level_num": 90,
+      "items": [
+        "Image Editing",
+        "Design",
+        "Compositing"
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "level": "Proficient",
+      "level_num": 75,
+      "items": [
+        "Editing",
+        "Effects",
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Proficient",
+      "level_num": 70,
+      "items": [
+        "Spreadsheets",
+        "Data Entry",
+        "Formulas"
+      ]
+    }
+  ]
+}
